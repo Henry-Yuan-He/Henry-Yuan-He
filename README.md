@@ -39,8 +39,9 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-Yuan-He&langs_count=5&layout=compact alt="Henry-Yuan-He"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-Yuan-He&langs_count=4&layout=compact alt="Henry-Yuan-He"/>
 </p>
+
 
 
 
