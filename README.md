@@ -38,15 +38,11 @@
 
 
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-Yuan-He&langs_count=4&layout=compact alt="Henry-Yuan-He"/>
+<p align="center">
+<a href="https://github.com/Henry-Yuan-He">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Henry-Yuan-He&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="Henry-Yuan-He"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Henry-Yuan-He&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="Henry-Yuan-He"/>
+</a>
 </p>
 
-
-
-
-
-
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Henry-Yuan-He&show_icons=true&theme=tokyonight" alt="Henry-Yuan-He" /></p>
 
