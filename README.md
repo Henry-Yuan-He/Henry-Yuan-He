@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm He Yuan</h1>
 
-<h3 align="center">Year 2 Business Analytics Student at National University of Singapore</h3>
+<h3 align="center">Year 3 Business Analytics Student at National University of Singapore</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Henry-Yuan-He"&style=plastic/> 
