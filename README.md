@@ -1,27 +1,16 @@
-<h1 align="center">Hi 👋, I'm He Yuan</h1>
+<h1 align="center">Hi 👋, I'm Henry Yuan He</h1>
 
-<h3 align="center">Year 3 Business Analytics Student at National University of Singapore</h3>
+<h3 align="center">Statistics Student at University of Oxford</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Henry-Yuan-He"&style=plastic/> 
 </p>
 
+- 🌱 Exploring the wonders of Maths, Stats, and Code!
+- 📫 You can reach me at at **yuan.he@st-hughs.ox.ac.uk**
 
 
-
-- 🌱 I’m currently learning **Machine Learning & Deep Learning**
-
-- 👯 I’m looking to collaborate on **Finding A Job :>**
-
-- 💬 Ask me about **anything about AI & ML & DL & NLP ...**
-
-- 📫 Find me at **he.yuan@u.nus.edu**
-
-
-
-
-### Languages and Skills
-
+### Technical Skills
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> 
@@ -34,7 +23,6 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="60" height="60"/>
 </p>
-
 
 
 
