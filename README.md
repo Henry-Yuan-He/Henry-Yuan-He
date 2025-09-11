@@ -7,7 +7,6 @@
 </p>
 
 - 🌱 Exploring the wonders of Maths, Stats, and Code!
-- 📫 You can reach me at at **yuan.he@st-hughs.ox.ac.uk**
 
 
 ### Technical Skills
