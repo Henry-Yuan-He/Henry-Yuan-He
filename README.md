@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Henry Yuan He</h1>
 
-<h3 align="center">Statistics Student at University of Oxford</h3>
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Henry-Yuan-He"&style=plastic/> 
 </p>
 
-- 🌱 Exploring the wonders of Maths, Stats, and Code!
+- 🌱 Exploration & Exploitation
 
 
 ### Technical Skills
@@ -21,15 +19,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="60" height="60"/>
-</p>
-
-
-
-<p align="center">
-<a href="https://github.com/Henry-Yuan-He">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Henry-Yuan-He&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="Henry-Yuan-He"/>
-  <!-- <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Henry-Yuan-He&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="Henry-Yuan-He"/> -->
-</a>
 </p>
 
 
