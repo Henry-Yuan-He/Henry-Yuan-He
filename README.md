@@ -4,10 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=Henry-Yuan-He"&style=plastic/> 
 </p>
 
-- 🌱 Exploration & Exploitation
+🌱 Exploration & Exploitation
 
-
-### Technical Skills
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> 
